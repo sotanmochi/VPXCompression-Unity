@@ -21,7 +21,7 @@ Although it is not required, it may be useful to set the environment variable Pa
 
 ### Install CMake
 Download and execute the installer.
-- https://github.com/Kitware/CMake/releases/tag/v3.19.2
+- https://github.com/Kitware/CMake/releases/tag/v3.17.3
 
 ### Install the English language pack in Visual Studio
 - [Install Visual Studio # Step 6 - Install language packs](https://docs.microsoft.com/ja-jp/visualstudio/install/install-visual-studio?view=vs-2019#step-6---install-language-packs-optional)
