@@ -5,5 +5,5 @@
 This project is licensed under the MIT License excluding third party assets.
 
 ## Tested Environment
-- Unity 2018.4.23f1
+- Unity 2018.4.28f1
 - Windows 10 Pro
